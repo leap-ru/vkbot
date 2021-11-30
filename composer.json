@@ -1,0 +1,8 @@
+{
+    "name": "leap/bot",
+    "autoload": {
+        "psr-4": {
+            "VK\\": "api/"
+        }
+    }
+}
